@@ -1,4 +1,4 @@
-# E-Commerce Data Engineering Project
+# E-Commerce Databricks Project
 
 ## Overview
 An end-to-end data engineering project built using Databricks, PySpark, SQL and Delta Lake. The project processes e-commerce data using the Medallion Architecture (Bronze, Silver and Gold layers).
